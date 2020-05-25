@@ -303,6 +303,8 @@ section {
   color: #fff;
   background-color: #f4c613;
   border: 1px solid #f4c613;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
 }
 
 .btn-yellow {
@@ -316,6 +318,8 @@ section {
   color: #fff;
   background-color: #212226;
   border: 1px solid #212226;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
 }
 
 .btn-white {
@@ -329,6 +333,8 @@ section {
   color: #fff;
   background-color: #212226;
   border: 1px solid #212226;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
 }
 
 .btn-back-to-top {
@@ -481,7 +487,7 @@ section {
 /* Hover state */
 
 .about-item:hover {
-  background-color: #f4c613;
+  background-color: #d5ac0a;
 }
 
 .about-item:hover i,
@@ -966,7 +972,7 @@ ul.social-list li:nth-child(3) a:hover {
 }
 
 #testimonial-slider {
-  background: #f4c613;
+  background: #d5ac0a;
   top: -120px;
 }
 
