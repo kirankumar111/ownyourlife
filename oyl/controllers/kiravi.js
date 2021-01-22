@@ -1,6 +1,6 @@
 exports.getKiravi = (req, res, next) => {
   res.render("kiravi", {
-    pageTitle: "Own Your Life",
+    pageTitle: "Growth Express",
     isAuthenticated: req.session.isLoggedIn
   });
 };
